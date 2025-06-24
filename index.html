@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body data-color-scheme="dark">
+    <div class="background-overlay"></div>
+    
+    <div class="container">
+        <main class="profile">
+            <!-- Avatar and Name Section -->
+            <div class="profile-header">
+                <div class="avatar-container">
+                    <img id="avatar" class="avatar" src="" alt="头像">
+                </div>
+                <div class="name-section">
+                    <h1 id="name" class="name"></h1>
+                    <p id="title" class="title"></p>
+                </div>
+            </div>
+
+            <!-- Websites Section -->
+            <div class="websites-section">
+                <div id="websites-container" class="websites-grid">
+                    <!-- Website buttons will be dynamically generated -->
+                </div>
+            </div>
+
+            <!-- Bio Section -->
+            <div class="bio-section">
+                <p id="bio" class="bio"></p>
+            </div>
+
+            <!-- Social Links Section -->
+            <div class="social-section">
+                <div id="social-links" class="social-links">
+                    <!-- Social links will be dynamically generated -->
+                </div>
+            </div>
+
+            <!-- Hitokoto Section -->
+            <div class="hitokoto-section">
+                <div class="hitokoto-container">
+                    <blockquote id="hitokoto-text" class="hitokoto-text">
+                        <!-- Hitokoto content will be loaded here -->
+                    </blockquote>
+                    <button id="refresh-hitokoto" class="btn btn--secondary btn--sm refresh-btn">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="23 4 23 10 17 10"></polyline>
+                            <polyline points="1 20 1 14 7 14"></polyline>
+                            <path d="m3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                        </svg>
+                        刷新
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
