@@ -9,10 +9,11 @@ const personalData = {
     {"name": "免费图床", "url": "https://img.liuts.paba.se/"},
     {"name": "随机密码生成", "url": "https://pass.sylu.cc/"}
   ],
-  "bio": "",
+  "bio": "一个很喜欢白嫖的博主，感觉下一秒要被打私",
   "social": {
     "github": "https://github.com/couldflyer",
-    "email": "lts2233@hotmail.com"
+    "email": "lts2233@hotmail.com",
+    "telegram": "https://t.me/liuts6"
   }
 };
 
