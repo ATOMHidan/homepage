@@ -2,23 +2,25 @@
 
 #### 支持的平台图标（内置）
 
+> 括号内为他们的图标名
+
 **技术平台：**
-- GitHub, GitLab, Stack Overflow, Dev.to, CodePen
+- GitHub(github), GitLab(gitlab), Stack Overflow(stackoverflow), Dev.to(devto), CodePen(codepen)
 
 **社交媒体：**
-- Twitter, Facebook, Instagram, LinkedIn, TikTok, YouTube
+- Twitter(twitter), Facebook(facebook), Instagram(instagram), LinkedIn(linkedin), TikTok(tiktok), YouTube(youtube)
 
 **中国平台：**
-- 微博, 微信, QQ, 知乎, 豆瓣, B站
+- 微博(weibo), 微信(wechat), QQ(qq), 知乎(zhihu), 豆瓣(douban), B站(bilibili)
 
 **通讯工具：**
-- 邮箱, Telegram, WhatsApp, Discord
+- 邮箱(email), Telegram(telegram), WhatsApp(whatsapp), Discord(discord)
 
 **设计平台：**
-- Behance, Dribbble
+- Behance(behance), Dribbble(dribbble)
 
 **其他：**
-- RSS, Website, Blog
+- RSS(rss), Website(website), Blog(blog)
 
 #### JSON配置格式
 
