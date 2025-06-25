@@ -23,11 +23,14 @@
 |名字|含义|
 |---|---|
 |name|你的名字|
-|title|名字下的副标题|
+|title|副标题|
 |avatar|头像|
 |websites|你的网站,可以添加多个|
 |bio|自我介绍|
-|social|联系方式, 仅支持email和github|
+|social|联系方式,内置多图标|
+|favicon|网页icon|
+
+social和favicon配置教程: [social-favicon.md](/social-favicon.md)
 
 > 如果你的更改没有作用, 可能是CDN缓存了JS文件, 需要去CDN处清理缓存
 
