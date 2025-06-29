@@ -1,6 +1,6 @@
 ## 个人主页
 
-我用AI写的个人主页, 在我看来挺好看的
+我在AI帮助下写的个人主页, 在我看来挺好看的
 
 预览: https://home.333375.xyz/
 
@@ -47,3 +47,7 @@ social和favicon配置教程: [social-favicon.md](/social-favicon.md)
 ## 后话
 
 喜欢的话点个Star呗～
+
+## 赞助
+
+感谢[NetJett](https://netjett.com/)对本项目的赞助
