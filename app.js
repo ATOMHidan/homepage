@@ -1,23 +1,23 @@
 // Personal configuration data
 const personalData = {
-  "name": "Liuts",
-  "title": "热爱白嫖",
-  "avatar": "https://r2.lts.dpdns.org/img/avatar.webp",
+  "name": "ATOM",
+  "title": "千早爱音",
+  "avatar": "https://xland.eu.org/autoupload/fr/Apyd_VgMrDaK--N5d9Bp9LymmFG5mamPE3BRhOPwQG2yl5f0KlZfm6UsKj-HyTuv/20251020/RApT/431X421/1000040353.png",
   "websites": [
-    {"name": "个人博客", "url": "https://blog.333375.xyz/"},
-    {"name": "随机图片", "url": "https://liuts-img.sylu.cc/"},
-    {"name": "免费图床", "url": "https://img.liuts.paba.se/"},
-    {"name": "随机密码生成", "url": "https://pass.sylu.cc/"}
+    {"name": "原神", "url": "https://ys.mihoyo.com/"},
+    {"name": "星铁", "url": "https://sr.mihoyo.com/"},
+    {"name": "赏心悦目", "url": "https://www.bilibili.com/video/BV13P4wzkEHU/"},
+    {"name": "如听仙乐", "url": "https://www.bilibili.com/video/BV1Ex4y1z7FU/"}
   ],
-  "bio": "一个很热爱白嫖的博主, 感觉下一秒要被人打死",
+  "bio": "为什么要演奏《春日影》！？",
   "social": [
-    {"name": "GitHub", "url": "https://github.com/couldflyer", "icon": "github"},
-    {"name": "邮箱", "url": "mailto:lts2233@hotmail.com", "icon": "email"},
-    {"name": "Telegram", "url": "https://t.me/liuts6", "icon": "telegram"}
+    {"name": "QQ", "url": "https://longdogechallenge.com/", "icon": "qq"},
+    {"name": "邮箱", "url": "mailto:262860664@qq.com", "icon": "email"},
+    {"name": "Telegram", "url": "https://xland.eu.org/autoupload/fr/Apyd_VgMrDaK--N5d9Bp9LymmFG5mamPE3BRhOPwQG2yl5f0KlZfm6UsKj-HyTuv/20251020/kXXa/1920X1080/1000041512.png", "icon": "telegram"}
   ],
   "favicon": {
     "enabled": true,
-    "baseIcon": "https://r2.lts.dpdns.org/img/favicon.webp"
+    "baseIcon": "https://xland.eu.org/autoupload/fr/Apyd_VgMrDaK--N5d9Bp9LymmFG5mamPE3BRhOPwQG2yl5f0KlZfm6UsKj-HyTuv/20251020/y8cB/640X640/35a1951d3426d6fb6f23e62bdd19d625.jpg"
   }
 };
 
